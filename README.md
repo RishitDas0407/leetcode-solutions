@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0383-ransom-note) |
