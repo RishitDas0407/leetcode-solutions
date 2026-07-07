@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0231-power-of-two) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
