@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/RishitDas0407/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/RishitDas0407/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RishitDas0407/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1920-build-array-from-permutation](https://github.com/RishitDas0407/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RishitDas0407/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3024-type-of-triangle](https://github.com/RishitDas0407/leetcode-solutions/tree/master/3024-type-of-triangle) |
 ## Prefix Sum
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/RishitDas0407/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 ## Recursion
 |  |
 | ------- |
