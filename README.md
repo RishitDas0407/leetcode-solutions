@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RishitDas0407/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3024-type-of-triangle](https://github.com/RishitDas0407/leetcode-solutions/tree/master/3024-type-of-triangle) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [3024-type-of-triangle](https://github.com/RishitDas0407/leetcode-solutions/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2652-sum-multiples](https://github.com/RishitDas0407/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/RishitDas0407/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/RishitDas0407/leetcode-solutions/tree/master/3024-type-of-triangle) |
 ## Binary Search
 |  |
 | ------- |
