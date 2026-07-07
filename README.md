@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RishitDas0407/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RishitDas0407/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3019-number-of-changing-keys](https://github.com/RishitDas0407/leetcode-solutions/tree/master/3019-number-of-changing-keys) |
 ## Counting
 |  |
 | ------- |
