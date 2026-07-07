@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [1550-three-consecutive-odds](https://github.com/RishitDas0407/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/RishitDas0407/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RishitDas0407/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3024-type-of-triangle](https://github.com/RishitDas0407/leetcode-solutions/tree/master/3024-type-of-triangle) |
