@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1550-three-consecutive-odds](https://github.com/RishitDas0407/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/RishitDas0407/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/RishitDas0407/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RishitDas0407/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3024-type-of-triangle](https://github.com/RishitDas0407/leetcode-solutions/tree/master/3024-type-of-triangle) |
 ## Prefix Sum
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RishitDas0407/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/RishitDas0407/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2652-sum-multiples](https://github.com/RishitDas0407/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/RishitDas0407/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/RishitDas0407/leetcode-solutions/tree/master/3024-type-of-triangle) |
