@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [2652-sum-multiples](https://github.com/RishitDas0407/leetcode-solutions/tree/master/2652-sum-multiples) |
 ## Binary Search
 |  |
 | ------- |
