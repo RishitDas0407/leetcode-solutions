@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2652-sum-multiples](https://github.com/RishitDas0407/leetcode-solutions/tree/master/2652-sum-multiples) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/RishitDas0407/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Binary Search
 |  |
 | ------- |
