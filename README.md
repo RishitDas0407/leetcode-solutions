@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0383-ransom-note](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
