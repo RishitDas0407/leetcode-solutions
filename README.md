@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0067-add-binary) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/RishitDas0407/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Simulation
 |  |
 | ------- |
