@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0771-jewels-and-stones](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 ## Sliding Window
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RishitDas0407/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/RishitDas0407/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
