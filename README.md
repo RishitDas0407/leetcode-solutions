@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0061-rotate-list) |
