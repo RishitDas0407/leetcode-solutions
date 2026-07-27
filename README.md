@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RishitDas0407/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1550-three-consecutive-odds](https://github.com/RishitDas0407/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/RishitDas0407/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RishitDas0407/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RishitDas0407/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3024-type-of-triangle](https://github.com/RishitDas0407/leetcode-solutions/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RishitDas0407/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
