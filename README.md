@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RishitDas0407/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RishitDas0407/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/RishitDas0407/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RishitDas0407/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/RishitDas0407/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 ## Recursion
 |  |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/RishitDas0407/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RishitDas0407/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
